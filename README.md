@@ -4,7 +4,7 @@
 Download and install the latest version of Git [here](https://git-scm.com/downloads).
 
 Note: At this step, change the default text editor to Notepad++ if you want to.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![](https://imgur.com/6LqAxHf.png)
 ### Step 2: Set your username in Git.
 1. Open Git Bash.
 2. Set a Git username (example - "Mona Lisa"):
