@@ -27,3 +27,7 @@ git config --global user.email "email@example.com"
 git config --global user.email
 email@example.com
 ```
+### Step 4: Install GitHub Desktop Client
+Download and install [GitHub Desktop Client](https://desktop.github.com/).
+### Step 5: Clone this repo
+Use GitHub Desktop Client to clone this repo.
